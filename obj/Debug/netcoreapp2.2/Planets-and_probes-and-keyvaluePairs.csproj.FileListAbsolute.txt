@@ -1,0 +1,11 @@
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/bin/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.deps.json
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/bin/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.runtimeconfig.json
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/bin/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.runtimeconfig.dev.json
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/bin/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.dll
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/bin/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.pdb
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/obj/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.csprojAssemblyReference.cache
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/obj/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.csproj.CoreCompileInputs.cache
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/obj/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.AssemblyInfoInputs.cache
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/obj/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.AssemblyInfo.cs
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/obj/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.dll
+/Users/jason/Workspace/csharp/exercises/Planets-and_probes-and-keyvaluePairs/obj/Debug/netcoreapp2.2/Planets-and_probes-and-keyvaluePairs.pdb
